@@ -11,7 +11,7 @@ Both components are documented in **Storybook** and designed with scalability an
 
 ## 📸 Screenshots
 
-![](./public/scrn1.png)
+![ ](./public/scrn1.png)
 
 ![](./public/scrn2.png)
 
