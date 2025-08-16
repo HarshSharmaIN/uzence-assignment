@@ -9,6 +9,16 @@ This repository contains two reusable React components built using **React, Type
 
 Both components are documented in **Storybook** and designed with scalability and modern UI patterns in mind.
 
+## 📸 Screenshots
+
+![](./public/scrn1.png)
+
+![](./public/scrn2.png)
+
+![](./public/scrn3.png)
+
+![](./public/scrn4.png)
+
 ---
 
 ## 📂 Project Structure
@@ -169,4 +179,4 @@ npm run storybook
 
 ## 📘 Storybook Preview (Chromatic)
 
-Live demo: [View Storybook](https://your-chromatic-link.chromatic.com)
+Live demo: [View Storybook](https://68a09571dcbfbc3f4ab20bfa-dapcrxzcxb.chromatic.com/)
